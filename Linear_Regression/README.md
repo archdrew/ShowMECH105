@@ -1,8 +1,1 @@
-## This algorithm determines the LU Factorization of a square matrix
-LU decomposition with pivotiing
-# inputs:
-*	A = coefficient matrix
-# outputs:
-* L = lower triangular matrix
-* U = upper triangular matrix
-* P = the permutation matrix
+## This algorith Filter outliers from your data set.Compute the linear regression on your filtered data set. Compute the  value from your filtered data and your linear regression function.
