@@ -9,3 +9,4 @@ My Mech 105 (Numerical Methods) Algorithms
 * modified secant method
 * simpsons 1/3 
 * linear regression 
+* LU Factorizaiton
