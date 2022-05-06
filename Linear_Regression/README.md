@@ -1,5 +1,5 @@
-###This algorithm determines the LU Factorization of a square matrix
-##	LU decomposition with pivotiing
+## This algorithm determines the LU Factorization of a square matrix
+LU decomposition with pivotiing
 # inputs:
 *	A = coefficient matrix
 # outputs:
